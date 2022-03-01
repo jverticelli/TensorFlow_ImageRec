@@ -11,8 +11,7 @@ How to run:
 2. Open the project on VSC
 3. Create virtual environment: py -m venv myenv
 4. Activate virtual environment: myenv\Scripts\activate
-5. Upgrade pip and install libraries:
-    pip install --upgrade pip
-    pip install tensorflow
-    pip install matplotlib
-6. Run: py App.py
+5. Upgrade pip: pip install --upgrade pip
+6. Install TensorFlow: pip install tensorflow
+7. Install matplotlib: pip install matplotlib
+8. Run: py App.py
